@@ -1,0 +1,15 @@
+.card{
+    width: 15rem;
+    transition: all 0.3s; 
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    transition: all 0.3s; 
+}
+
+.card-title{
+    text-decoration: none;
+}

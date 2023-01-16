@@ -1,0 +1,43 @@
+.movie-section{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px 0px;
+    font-weight: 400;
+    color: white;
+    font-family: 'Montserrat';
+}
+
+.movie-rating{
+    font-weight: bolder;
+    display: flex;
+    font-size: 20px;
+}
+
+.movie-rating span{
+    margin-right: 20px;
+    color: black;
+}
+
+.movie-title{
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.icon{
+    color: yellow
+}
+
+.movie-plot{
+    font-size: medium;
+    font-weight: bolder;
+    color: white;
+}
+
+.movie-info{
+    color: black;
+    font-weight: bolder;
+}
+
+.online{
+    text-decoration: none;
+}
